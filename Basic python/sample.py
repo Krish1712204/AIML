@@ -30,7 +30,7 @@ krish = '1.2'
 print(type(krish))
 
 
-
+#Real and imag
 c1 = 1
 c2 = 2j
 print("c1",c1 ,"c2",c2)
